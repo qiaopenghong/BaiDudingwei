@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BaiDudingwei.iml" filepath="$PROJECT_DIR$/BaiDudingwei.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/上拉加载下拉刷新/上拉加载下拉刷新.iml" filepath="$PROJECT_DIR$/上拉加载下拉刷新/上拉加载下拉刷新.iml" />
+    </modules>
+  </component>
+</project>
